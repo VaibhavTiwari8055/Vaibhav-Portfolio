@@ -38,13 +38,6 @@ const Achievement = () => {
             des="By integrating SEO best practices into the design of a client's website, I ensured that the site was fully optimized for search engines.
              This included keyword research, metadata optimization, and the creation of SEO-friendly content structures."
           />
-          <ResumeCard
-            title="Enhancing Website Accessibility"
-            subTitle="Expanding User Base and Improving Usability"
-            result="Success"
-            des="I upgraded a client’s website to comply with WCAG 2.1 accessibility standards, ensuring that it was usable by individuals with disabilities.
-             This included adding alternative text for images, improving keyboard navigation, and adjusting color contrast for better readability."
-          />
           
         </div>
       </div>

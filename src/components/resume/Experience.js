@@ -14,7 +14,7 @@ const Experience = () => {
           <p className="text-sm text-designColor tracking-[4px]">2021 - 2023</p>
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
-        <div className="mt-14 w-full h-[600px] border-l-[5px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-20 w-full h-[800px] border-l-[5px] border-l-black border-opacity-30 flex flex-col gap-20">
           <ResumeCard
              title="Web Designer"
             subTitle="Mono Infotech - (July 2021 - April 2022)"
